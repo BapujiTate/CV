@@ -1,0 +1,29 @@
+body{
+  background-image: linear-gradient(#faf1e6,#a0937d);
+  font-family: "Trirong", serif;
+}
+
+img {
+  border-radius: 20px;
+  width: 180px;
+}
+
+hr{
+  background-color: #eeeeee;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #393e46;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1{
+  background-color: #fbc6a4;
+  font-family: 'Libre Baskerville', serif;
+  color: #480032;
+}
+
+h2{
+  font-family: "Sofia", sans-serif;
+  color:#1eae98;
+}
